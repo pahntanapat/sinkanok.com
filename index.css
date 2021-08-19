@@ -1,0 +1,55 @@
+/* CSS Document */
+.style1 {
+	font-size: 36pt;
+	font-weight: bold;
+	color: #FF0000;
+	font-family: AngsanaUPC, System, "John Handy LET", Jokerman;
+}
+.style3 {
+	font-size: 16pt;
+	font-weight: bold;
+	color: #00CC00;
+}
+a:link {
+	color: #0099FF;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #009900;
+}
+a:hover {
+	text-decoration: none;
+	color: #FF0000;
+}
+a:active {
+	text-decoration: none;
+	color: #FFFF00;
+}
+.style6 {font-size: 24px}
+body {
+	background-image: url();
+	background-color: #CCFFFF;
+}
+.style8 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #0033FF;
+	font-size: 24px;
+	font-weight: bold;
+}
+.style10 {
+	font-family: AngsanaUPC, System, "John Handy LET", Jokerman;
+	font-size: 36px;
+}
+.style11 {
+	font-size: 18pt;
+	font-weight: bold;
+}
+.style13 {color: #FF6600}
+.style14 {color: #FFCC33}
+.style15 {
+	color: #0099FF;
+	font-weight: bold;
+	text-align:right;
+}
+.style16 {font-size: 18px}

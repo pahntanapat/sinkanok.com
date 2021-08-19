@@ -1,0 +1,127 @@
+@charset "windows-874";
+a:link {
+	color: #060;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #060;
+}
+a:hover {
+	text-decoration: none;
+	color: #F00;
+}
+a:active {
+	text-decoration: none;
+	color: #0FF;
+}
+body{
+	background-color:#e5ffc7;
+}
+#float{
+	border:medium double #009900;
+	border-radius:10px;
+	position: absolute;
+	top: 10px;
+	right: 10px;
+	padding: 10px;
+	background:#FFFFFF;
+}
+.header table tr td div {
+	padding: 10px;
+}
+.header table tr td div .mainHead {
+	font-size: 72px;
+	font-weight: 900;
+	font-family: "Courier New", Courier, monospace;
+	color: #006;
+	letter-spacing: -2pt;
+}
+.header table tr td div .subHead {
+	font-weight: 700;
+	font-size: 22px;
+	color: #09C;
+	padding-left: 10%;
+}
+.navbar {
+	background-color: #93f1b6;
+	border: thin solid #bdfbb6;
+	font-weight: 500;
+	text-align: center;
+	font-size: large;
+	border-radius:5px;
+	box-shadow:#AAA 2px 2px;
+	margin:2.5px;
+}
+.white{
+	background-color:#FFF;
+	border-radius:5px;
+}
+.foot {
+	font-weight: 800;
+	text-align: center;
+	clear: both;
+}
+
+.sidemenu {
+	height: auto;
+	width: 19%;
+	padding:5px;
+	margin:2.5px;
+}
+.content {
+	float:right;
+	height: auto;
+	width: 79%;
+	margin:2.5px;
+	text-align: left;
+}
+.sidemenu .menu div {
+	font-size: large;
+	font-weight: 700;
+	color: #F00;
+	text-align: center;
+	border:medium solid #090;
+	border-radius:7px;
+}
+.sidemenu .menu ul {
+	font-weight: bold;
+	font-size: medium;
+	text-align: left;
+	list-style-type:circle;
+	list-style-position: inside;
+}
+.sidemenu .menu ul li:hover {
+	background:#c3ec93;
+}
+#title {
+	margin-top: 20px;
+	font-size: xx-large;
+	font-weight: bolder;
+	text-align: left;
+}
+hr{
+	border:0px;
+	background-color:#aaa;
+	height:2px
+}
+.red{color:#FF0000;}
+.green{color:#00FF00;}
+.pink{color:#F0F;}
+.violet{color:#9900FF;}
+.brown{color:#CC0000;}
+.blue{color:#0000FF;}
+.yellow{color: #FF9900;;}
+.leafgreen{color:#009900;}
+.egg{color:#FF9933;}
+.marine{color:#0099FF;}
+.center {text-align: center;}
+.italic{font-style:italic;}
+.bold{font-weight:bold;}
+.inline{display:inline;}
+.indend{text-indent:10%;}
+.right{text-align:right;}
+.list {
+	list-style-type: circle;
+	list-style-image: url(images/arrows.gif);
+}
